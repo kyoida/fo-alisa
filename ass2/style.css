@@ -11,7 +11,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align: center
+    text-align: center;
 }
 .c-first{
     font-family: Georgia, Times, "Times New Roman", serif; 
@@ -60,6 +60,9 @@ button{
     background-color: #ebebeb;
     height: auto;
    padding-top: 50px;
+   padding-bottom: 50px;
+   text-align: center;
+
 }
 .main-head{
     font-family: Georgia, Times, "Times New Roman", serif; 
@@ -76,8 +79,9 @@ button{
 }
 .main-btn{
     text-align: center;
+    margin-bottom: 30px;
     padding-inline: 350px;
-    padding-bottom: 40px;
+    text-align: center;
 }
 .our{
     
@@ -98,9 +102,7 @@ button{
     border-radius: 1000px;
     padding: 20px;
     background-color: #fff;
-    margin: 30px;
-    text-align: center;
-    margin-top: 30px;
+    
 }
 .texti{
     font-family: Georgia, Times, "Times New Roman", serif; 
@@ -153,11 +155,10 @@ button{
 .btn{
     background-color: #4f4d6a;
     width: 100px;
-    height: 30px;
+    height: auto;
 }
 
 .navbar-nav{
     padding-left: 490px;
 }
-
 
